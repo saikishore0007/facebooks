@@ -1,0 +1,35 @@
+body{
+    background-color:rgb(184, 166, 143) ;
+    padding-top: 15px;
+}
+
+input{
+    height:52px;
+    width:300px;
+    border-radius: 10px;
+
+}
+button{
+    height:52px;
+    width:300px;
+    border-radius:5px;
+}
+.first{
+display:flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-between;
+padding-top: 10px;
+padding-bottom: 15px;
+background-color:white;
+height:300px;
+width:350px;
+border-radius: 10px;
+
+    
+}
+
+
+input:hover{
+    border: 1.5px solid black;
+}
